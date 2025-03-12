@@ -50,7 +50,7 @@
 
 1. **Run the Script**:
    ```bash
-   python captcha_slayer.py
+   python captcha-slayer.py
    ```
 
 2. **Input Your Target**:
@@ -146,23 +146,3 @@ For issues, feature requests, or questions, please [open an issue](https://githu
 
 **CAPTCHA Slayer v1.0** - Coded by **Shiboshree Roy** | Date: **2025-03-13**  
 **Target: User-Defined Website** | **Mode: Autonomous**
-
-
----
-
-### Key Features of the README:
-1. **Professional Structure**: Clear sections with headings and subheadings for easy navigation.
-2. **Installation and Usage**: Step-by-step instructions for setting up and running the tool.
-3. **Customization**: Details on updating XPaths and tweaking image preprocessing.
-4. **Limitations**: Transparent about the tool’s capabilities and limitations.
-5. **Legal Disclaimer**: Prominently displayed to emphasize ethical use and compliance with laws.
-6. **License and Contributing**: Encourages community involvement and outlines the project’s open-source nature.
-7. **Support and Acknowledgments**: Provides a clear path for users to report issues and credits third-party tools.
-
----
-
-### How to Use:
-1. Save this content as `README.md` in your project root directory.
-2. Replace placeholders (e.g., logo, GitHub URL) with actual links and images.
-3. Update the `LICENSE` file and `requirements.txt` as needed.
-
