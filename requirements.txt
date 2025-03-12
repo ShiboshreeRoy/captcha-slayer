@@ -1,0 +1,6 @@
+selenium>=4.8.0
+opencv-python>=4.7.0
+pytesseract>=0.3.10
+pillow>=9.4.0
+numpy>=1.23.0
+colorama>=0.4.6
